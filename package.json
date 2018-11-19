@@ -18,7 +18,7 @@
   },
   "bin": "./bin/remarkable.js",
   "dependencies": {
-    "argparse": "~0.1.15",
+    "argparse": "~1.0.10",
     "autolinker": "~0.15.0"
   },
   "devDependencies": {
